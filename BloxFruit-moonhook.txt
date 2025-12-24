@@ -1,4 +1,4 @@
-print("✅ Security verification passed. Loading RTaODev...")
+print("✅ Security verification passed. Loading moonhook...")
 if game.PlaceId == 2753915549 then
 	World1 = true;
 elseif game.PlaceId == 4442272183 then
